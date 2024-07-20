@@ -10,5 +10,7 @@ and get a whole data object as you get from RNGooglePlaces in return like name, 
 4)  Import it as NativeModules from react-native
 5)  Use it like const {RNCustomGooglePlaces} = NativeModules;
 
-Have a Great Day!!!!!!
+Have a Great Day!!!!!!![IphoneLight](https://github.com/user-attachments/assets/901006bf-87a5-4c98-ba55-ef803f4d2005)
+![IphoneDark](https://github.com/user-attachments/assets/a2df8e57-c3d8-4f99-80fb-939fb0c34103)
+
 
